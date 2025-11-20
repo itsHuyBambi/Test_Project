@@ -628,6 +628,11 @@ color:#A3A6AB;
   width: 38px;
   height: 38px;
   border-radius: 3px;
+  color: #F9F9F9;
+}
+
+.footer .social-link+ .social-link{
+    margin-left: 16px;
 }
 
 .footer .social-link:hover{
