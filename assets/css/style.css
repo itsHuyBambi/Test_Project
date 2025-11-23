@@ -10,6 +10,9 @@
 a {
   text-decoration: none;
 }
+html,body{
+  scroll-behavior: smooth;
+}
 
 html {
   font-size: 62.5%;
@@ -55,7 +58,7 @@ body {
 .hero-wrap {
   position: relative;
   background: #e6f0ff;
-  height: calc(100vh - 90px);
+  height: calc(100vh - 90px); 
   display: flex;
   flex-direction: column;
  
